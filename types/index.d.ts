@@ -105,6 +105,7 @@ declare type CategoryCount = {
   name: string;
   count: number;
   totalCount: number;
+  indicator: string;
 };
 
 declare type Receiver = {
